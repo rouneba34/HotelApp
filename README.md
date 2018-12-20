@@ -6,6 +6,6 @@ Les Membres du groupe:
 Je fais un push en tant que branche dev_harouna
 
 Massiré DIA
-Cheikh SEYE
+Cheikh Amadou Diagne SEYE
 Nana N'GUISSAN
 Harouna BA
